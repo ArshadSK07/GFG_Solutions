@@ -19,7 +19,7 @@ Constraints:
 2 ≤ k ≤ arr.size()
 
  */
-
+import java.util.*;
 
 class Solution {
     public boolean canWePlace(int [] arr , int dist , int cows){
